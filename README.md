@@ -1,1 +1,1 @@
-# Project
+# Practice Projects
